@@ -1,4 +1,4 @@
-#Calculadora distribuida
+Calculadora distribuida
 
 ======= COMO USAR =======
 
