@@ -12,7 +12,7 @@ Para realizar os calculos, basta digitar os seguintes comandos:
 
 
 2. Como Executar
-    - Para executar o projeto, você deve executar primeiramente o SERVIDOR (Servidor.java) e depois executar o CLIENTE (Cliente.java).
+    - Para executar o projeto, você deve executar primeiramente o SERVIDOR (Servidor.java) e depois executar o CLIENTE (Cliente.java). Após a execução a calculadora estara prota para receber as expressões a serem calculadas
   
 
 3. Explicação do projeto
